@@ -1,0 +1,23 @@
+{
+  "greeting": "嗨",
+  "name": "奶奶",
+  "greetingText": "好久不见啦",
+  "wishText": "生日快乐呀 ;)",
+  "imagePath": "../content/img/g2.jpg",
+  "text1": "今天是奶奶的八十岁大寿!!! :D",
+  "textInChatBox": "祝您身体健康福如东海寿比南山...",
+  "sendButtonLabel": "发送",
+  "text2": "我本来想简单的发个微信祝福",
+  "text3": "深思熟虑后还是放弃了",
+  "text4": "今天是个值得纪念的日子，所以我要做点",
+  "text4Adjective": "特别的",
+  "text5Entry": "因为",
+  "text5Content": "我们都很爱您",
+  "smiley": ":)",
+  "bigTextPart1": "所",
+  "bigTextPart2": "以",
+  "wishHeading": "生日快乐!",
+  "outroText": "这个网页在所有移动设备上都可以看噢",
+  "replayText": "想再看一遍可以点击这里",
+  "outroSmiley": ":)"
+}
