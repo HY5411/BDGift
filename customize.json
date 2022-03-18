@@ -2,7 +2,7 @@
   "greeting": "嗨",
   "name": "奶奶",
   "greetingText": "好久不见啦",
-  "wishText": "生日快乐呀 ;)",
+  "wishText": "",
   "imagePath": "img/g2.jpg",
   "text1": "今天是奶奶的八十岁大寿!!! :D",
   "textInChatBox": "祝您身体健康福如东海寿比南山...",
@@ -17,7 +17,7 @@
   "bigTextPart1": "所",
   "bigTextPart2": "以",
   "wishHeading": "生日快乐!",
-  "outroText": "这个网页在所有移动设备上都可以看噢",
+  "outroText": "这个网页在所有移动设备上都可以看",
   "replayText": "想再看一遍可以点击这里",
   "outroSmiley": ":)"
 }
