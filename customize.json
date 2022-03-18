@@ -3,7 +3,7 @@
   "name": "奶奶",
   "greetingText": "好久不见啦",
   "wishText": "生日快乐呀 ;)",
-  "imagePath": "../content/img/g2.jpg",
+  "imagePath": "img/g2.jpg",
   "text1": "今天是奶奶的八十岁大寿!!! :D",
   "textInChatBox": "祝您身体健康福如东海寿比南山...",
   "sendButtonLabel": "发送",
